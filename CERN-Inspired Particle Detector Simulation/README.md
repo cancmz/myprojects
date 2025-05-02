@@ -14,7 +14,7 @@ This simulation reflects key ideas in particle physics experiments:
 - Detectors only capture a fraction of incoming particles.
 - Time-resolved data is crucial for analysis.
 
-Environmental and cosmic conditions such as solar flares, geomagnetic storms, and altitude influence particle flux and detection:
+Environmental and cosmic conditions such as solar flares, geomagnetic storms and altitude influence particle flux and detection:
 
 | Real-World Condition                 | Simulation Parameter Affected       | Example                                     |
 |-------------------------------------|-------------------------------------|---------------------------------------------|
