@@ -1,2 +1,2 @@
 # myprojects
-Burada kendimi geliştirmek adına yürttüğüm projelerin içerikleri vardır. Genellikle aniden aklıma gelen "acaba şunu yazılım kullanarak nasıl yapabilirim?" dediğim problemlerin çözümlerini içerir.
+I'm drawn to how systems behave — and misbehave. I explore alternatives and build functional models, preferably before reality catches up.
