@@ -4,7 +4,7 @@ This project simulates a basic particle detection system inspired by real-world 
 
 ## Overview
 
-The simulation estimates how many particles arrive at a detector each second, and how many of those are detected based on predefined probability. The flux of incoming particles varies over time using a sinusoidal function, representing fluctuations observed in cosmic radiation due to solar and geomagnetic activity.
+The simulation estimates how many particles arrive at a detector each second and how many of those are detected based on predefined probability. The flux of incoming particles varies over time using a sinusoidal function, representing fluctuations observed in cosmic radiation due to solar and geomagnetic activity.
 
 ## Features
 
