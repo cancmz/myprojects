@@ -79,4 +79,3 @@ This will generate a high-resolution plot in the `results/` folder with a timest
 
 **Ahmet Can Çömez**  
 Computer Engineering Student  
-Interested in physics, simulation, and scientific modeling.
