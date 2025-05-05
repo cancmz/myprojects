@@ -6,6 +6,21 @@ This project simulates the motion of charged particles in a uniform magnetic fie
 
 Charged particles launched from the origin with varying momentum and angle move in circular paths when exposed to a magnetic field. Their trajectories are computed using the classical relationship between momentum, magnetic field, and curvature radius. The simulation plots the path of each particle, visualizes its curvature direction depending on charge, and marks its starting point and direction.
 
+## Scientific Context
+
+This simulation is based on the classical Lorentz force law:
+
+F = q · (v × B)  ⟶  r = p / (|q| · B)
+
+Where:
+- `r` = radius of curvature (meters)
+- `p` = momentum (kg·m/s)
+- `q` = charge (Coulombs)
+- `B` = magnetic field strength (Tesla)
+
+
+This system captures how a uniform magnetic field bends the path of charged particles. The direction of curvature depends on the sign of the charge, and the radius is inversely proportional to the magnetic field and the charge magnitude.
+
 ## Features
 
 - Fully SI-unit-based calculation and visualization
@@ -49,22 +64,6 @@ python tracker_sim.py
 ```
 
 This will generate a high-resolution plot in the `results/` folder with a timestamped filename.
-
-
-## Scientific Context
-
-This simulation is based on the classical Lorentz force law:
-
-F = q · (v × B)  ⟶  r = p / (|q| · B)
-
-Where:
-- `r` = radius of curvature (meters)
-- `p` = momentum (kg·m/s)
-- `q` = charge (Coulombs)
-- `B` = magnetic field strength (Tesla)
-
-
-This system captures how a uniform magnetic field bends the path of charged particles. The direction of curvature depends on the sign of the charge, and the radius is inversely proportional to the magnetic field and the charge magnitude.
 
 ## Example Output
 
