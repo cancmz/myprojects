@@ -1,6 +1,6 @@
 # CERN-Inspired Charged Particle Tracker
 
-This project simulates the motion of charged particles in a uniform magnetic field, inspired by particle tracking detectors used in CERN experiments such as ATLAS and CMS. The goal is to model the curved trajectories of charged particles under the influence of the Lorentz force, and to visualize their paths based on physical parameters like momentum, charge, and angle.
+This project simulates the motion of charged particles in a uniform magnetic field, inspired by particle tracking detectors used in CERN experiments such as ATLAS and CMS. The goal is to model the curved trajectories of charged particles under the influence of the Lorentz force, and to visualize their paths based on physical parameters like momentum, charge and angle.
 
 ## Overview
 
