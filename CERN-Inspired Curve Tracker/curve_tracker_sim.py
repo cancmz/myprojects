@@ -96,7 +96,7 @@ def draw_particles(particles, B):
 
 if __name__ == "__main__":
 
-    NUM_PARTICLES = 15
+    NUM_PARTICLES = 12
     B_FIELD = 1.0
     MOMENTUM_RANGE = (1.0, 5.0)
 
