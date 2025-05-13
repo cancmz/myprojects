@@ -37,12 +37,12 @@ class Particle:
 
 
 def draw_particles(particles, B):
+    plt.close('all') 
+    plt.figure(figsize=(10, 10))  
     plt.grid(True, linestyle='--', linewidth=0.5, alpha=0.6)
-    plt.figure(figsize=(10, 10))
     plt.title("Charged Particle Tracks in Magnetic Field")
     plt.xlabel("X Position", fontsize=14)
     plt.ylabel("Y Position", fontsize=14)
-    plt.grid(True, linestyle='--', linewidth=0.5, alpha=0.6)
     plt.axis('equal')
 
     for p in particles:
