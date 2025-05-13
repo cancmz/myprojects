@@ -3,7 +3,7 @@ import math
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 from datetime import datetime
-
+import os
 
 class Particle:
     def __init__(self, B=1.0, momentum_range=(1.0, 5.0)):
@@ -80,11 +80,17 @@ def draw_particles(particles, B):
     )
 
     plt.grid(True)
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    results_dir = os.path.join(base_dir, "results")
+
+    if not os.path.exists(results_dir):
+        os.makedirs(results_dir)
+
     timestamp = datetime.now().strftime("%Y-%m-%d_%H-%M-%S")
-    filename = f"results/plot_{timestamp}.png"
+    filename = os.path.join(results_dir, f"plot_{timestamp}.png")
 
     plt.savefig(filename, dpi=600, bbox_inches='tight')
-    print(f"Grafik başarıyla kaydedildi: {filename}")
+    print(f"Plot successfully saved to: {filename}")
     plt.show()
 
 
