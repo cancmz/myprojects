@@ -91,8 +91,8 @@ Each step of the simulation logs detailed information to the file `simulation_ou
 ### Sample CSV Row
 
 ```csv
-0.25,Earth,1.49556e+11,2.57299e+09,0,-512.496,29780,0,-0.00593167,0,0
-
+1,Earth,1.49556e+11,2.57299e+09,0,-512.496,29780,0,-0.00593167,0,0
+```
 ## Author
 
 **Ahmet Can Çömez**  
