@@ -85,7 +85,7 @@ Each step of the simulation logs detailed information to the file `simulation_ou
 ### These outputs can be used to:
 
 - **Plot distance vs. time** for any body relative to a reference (e.g., the origin or another body)
-- **Visualize 3D trajectories** of celestial bodies in space
+- **Visualize 2D trajectories** of celestial bodies in space
 - **Analyze orbital properties** such as period, eccentricity, or stability over time
 
 ### Sample CSV Row
