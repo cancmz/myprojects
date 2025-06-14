@@ -49,7 +49,7 @@ This simulation uses the **Euler integration method**, a first-order numerical t
 
 | Parameter   | Description                                    | Example Value      |
 |-------------|------------------------------------------------|--------------------|
-| `dt`        | Time step in seconds (e.g., 6 hours)           | 21600              |
+| `dt`        | Time step in seconds (e.g., 24 hours)           | 86400              |
 | `days`      | Number of simulated days                       | 365                |
 | `bodies`    | Number of celestial bodies                     | 2 or more          |
 | `G`         | Gravitational constant                         | 6.67430 × 10⁻¹¹    |
