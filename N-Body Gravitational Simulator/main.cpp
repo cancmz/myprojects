@@ -4,6 +4,7 @@
 #include <utility>
 #include <vector>
 #include <fstream>
+#include <math.h>
 using namespace std;
 
 class Vector3D {
