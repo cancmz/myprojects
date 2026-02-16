@@ -1,0 +1,10 @@
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\bin\Debug\MSPaintProject.exe.config
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\bin\Debug\MSPaintProject.exe
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\bin\Debug\MSPaintProject.pdb
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\obj\Debug\MSPaintProject.csproj.AssemblyReference.cache
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\obj\Debug\MSPaintProject.Form1.resources
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\obj\Debug\MSPaintProject.Properties.Resources.resources
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\obj\Debug\MSPaintProject.csproj.GenerateResource.cache
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\obj\Debug\MSPaintProject.csproj.CoreCompileInputs.cache
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\obj\Debug\MSPaintProject.exe
+C:\Users\acanc\source\repos\MSPaintProject\MSPaintProject\obj\Debug\MSPaintProject.pdb
